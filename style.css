@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+}
+
+.display{
+  margin: 10px;
+}
+
+.w3-card{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+
+.w3-container{
+  margin: 0 auto;
+  width: 70%;
+}
